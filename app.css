@@ -205,19 +205,19 @@ a {
 }
 
 .sidebar .sidebar-message::before {
-    background-image: url('/img/message.svg');
+    background-image: url('img/message.svg');
 }
 
 .sidebar .sidebar-events::before {
-    background-image: url('/img/events.svg');
+    background-image: url('img/events.svg');
 }
 
 .sidebar .sidebar-groups::before {
-    background-image: url('/img/groups.svg');
+    background-image: url('img/groups.svg');
 }
 
 .sidebar .sidebar-friend::before {
-    background-image: url('/img/groups.svg');
+    background-image: url('img/groups.svg');
 }
 
 .sidebar a.active,
