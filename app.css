@@ -196,7 +196,7 @@ a {
     display: inline-block;
     width: 11px;
     height: 9px;
-    background: url('/img/home.svg') center center / contain no-repeat;
+    background: url('img/home.svg') center center / contain no-repeat;
     vertical-align: middle;
     margin-top: -2px;
     opacity: .67;
